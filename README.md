@@ -14,18 +14,18 @@ Fast, colorful username availability checker for Windows. One exe, no install.
 
 ## Features
 
-- Random username generator with charset, length and amount controls
-- Bring your own list, or paste usernames straight into the app
-- Local validation: 2-32 characters, lowercase letters, digits, `_` and `.`, no duplicates
-- Proxy support for HTTP, HTTPS and SOCKS5, with login
-- Paste proxies from the menu, test them, and remove the dead ones
-- Bad or rate-limited proxies rest automatically and are skipped
-- Connection check before every run, so a broken setup fails fast
-- Live progress bar with speed and ETA
-- Clear failure reasons instead of silent hangs
-- Settings presets: auto, safe, balanced, fast, custom
-- Discord webhook and optional beep when a name is available
-- Per-session results and logs, plus lifetime stats
+-  Random username generator with charset, length and amount controls
+-  Bring your own list, or paste usernames straight into the app
+-  Local validation: 2-32 characters, lowercase letters, digits, `_` and `.`, no duplicates
+-  Proxy support for HTTP, HTTPS and SOCKS5, with login
+-  Paste proxies from the menu, test them, and remove the dead ones
+-  Bad or rate-limited proxies rest automatically and are skipped
+-  Connection check before every run, so a broken setup fails fast
+-  Live progress bar with speed and ETA
+-  Clear failure reasons instead of silent hangs
+-  Settings presets: auto, safe, balanced, fast, custom
+-  Discord webhook and optional beep when a name is available
+-  Per-session results and logs, plus lifetime stats
 
 ## Usage
 
