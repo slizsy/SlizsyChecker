@@ -1,6 +1,6 @@
 # Slizsy Checker
 
-Fast, colorful username availability checker for Windows. One exe, no install.
+Fast and colorful username checker for Windows. 
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square)
 ![Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
@@ -99,9 +99,8 @@ src/SlizsyChecker/
 ## Disclaimer
 
 This project is for educational use and is not affiliated with Discord.
-Sending automated requests in bulk may violate Discord's Terms of Service and can get your IP address rate-limited or blocked.
+Sending automated requests in bulk may violate Discord's Terms of Service and can and will get your IP address rate-imited or blocked.
 You are responsible for how you use it. Keep volumes low.
 
 ## Credits and license
-.
 Released under the [GPL-3.0](LICENSE) license.
