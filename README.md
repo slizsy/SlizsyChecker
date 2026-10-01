@@ -27,30 +27,6 @@ Fast, colorful username availability checker for Windows. One exe, no install.
 - Discord webhook and optional beep when a name is available
 - Per-session results and logs, plus lifetime stats
 
-## Quick start
-
-### Download
-
-1. Open the **Releases** tab and download `SlizsyChecker.exe`.
-2. Run it. The `data`, `results` and `logs` folders are created next to the exe.
-
-### Build from source
-
-Requires the [.NET 8 SDK](https://dotnet.microsoft.com/download).
-
-```
-build.bat
-```
-
-or
-
-```
-dotnet publish src/SlizsyChecker -c Release -r win-x64 -o dist
-```
-
-The single-file exe is written to `dist/SlizsyChecker.exe`.
-To work on it in Visual Studio 2022, open `SlizsyChecker.sln`.
-
 ## Usage
 
 | Menu | What it does |
@@ -124,9 +100,8 @@ src/SlizsyChecker/
 
 This project is for educational use and is not affiliated with Discord.
 Sending automated requests in bulk may violate Discord's Terms of Service and can get your IP address rate-limited or blocked.
-You are responsible for how you use it. Keep volumes modest.
+You are responsible for how you use it. Keep volumes low.
 
 ## Credits and license
-
-Based on the idea and original Go implementation by [raz461](https://github.com/raz461/Discord-Username-Checker).
+.
 Released under the [GPL-3.0](LICENSE) license.
