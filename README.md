@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/screenshot.png" alt="Slizsy Checker" width="760">
-
 # Slizsy Checker
 
 Fast, colorful username availability checker for Windows. One exe, no install.
@@ -9,6 +5,10 @@ Fast, colorful username availability checker for Windows. One exe, no install.
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square)
 ![Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)
+
+<div align="center">
+
+<img src="assets/screenshot.png" alt="Slizsy Checker" width="760">
 
 </div>
 
