@@ -1,0 +1,5 @@
+# One proxy per line. Any of these formats works.
+host:port
+host:port:username:password
+http://username:password@host:port
+socks5://username:password@host:port
