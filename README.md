@@ -1,6 +1,6 @@
 # Slizsy Checker
 
-Fast, colorful username availability checker for Windows. One exe, no install.
+Fast, colorful username availability checker for Discord.
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square)
 ![Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
